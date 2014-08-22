@@ -254,7 +254,7 @@ a:focus {
     width: 100%;
     height:auto;
     padding: 0;
-    color: #fff;
+    color: black;
     background: url(http://swaggnews.com/wp-content/uploads/2012/10/XO.jpg) no-repeat bottom center scroll;
     background-color: black;
     -webkit-background-size: cover;
@@ -302,7 +302,7 @@ a:focus {
 .btn-default {
     border: 1px solid #000;
     color: #fff;
-    background-color: navy;
+    background-color: black;
 }
 
 .btn-default:hover,
@@ -310,7 +310,7 @@ a:focus {
     border: 1px solid #fff;
     outline: 0;
     color: #fff;
-    background-color: green;
+    background-color: black;
 }
 
 ul.banner-social-buttons {
